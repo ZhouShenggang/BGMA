@@ -66,9 +66,3 @@ Our model achieves state-of-the-art performance on benchmark datasets:
   - Text retrieval Recall@10: **92.5%**
 
 ---
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
