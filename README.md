@@ -1,4 +1,4 @@
-# Text Prototype Feature Assisted Learning for Multi-granularity Image-text Retrieval
+# Efficient Image-text Retrieval via Bi-Cross-Graph Learning and Multi-Grained Alignment
 
 This repository contains the official implementation of the paper:
 
